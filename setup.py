@@ -1,6 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
+    install_requires=[
+        'setuptools',
+    ],
     name='collective.js.extjs',
     namespace_packages=[
         'collective',
