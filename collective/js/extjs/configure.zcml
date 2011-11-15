@@ -4,7 +4,7 @@
     >
 
    <browser:resourceDirectory
-        directory="extjs-3.4.0"
+        directory="ext-3.4.0"
         name="extjs"
         />
 
