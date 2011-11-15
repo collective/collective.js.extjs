@@ -1,0 +1,11 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    >
+
+   <browser:resourceDirectory
+        directory="extjs-3.4.0"
+        name="extjs"
+        />
+
+</configure>
